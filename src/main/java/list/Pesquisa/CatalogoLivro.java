@@ -1,4 +1,4 @@
-package javacolecaolist;
+package main.java.list.Pesquisa;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
